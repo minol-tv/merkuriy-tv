@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imperil-tv.s3.eu-north-1.amazonaws.com/sitemap.xml
